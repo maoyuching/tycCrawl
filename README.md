@@ -1,4 +1,5 @@
-input.csv 要查找的企业 名字
+input.csv 要查找的企业名字
+
 output.csv 一些基本信息输出
 
 运行爬虫：python crawl.py
